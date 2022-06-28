@@ -1,0 +1,6 @@
+name: Example workshop
+type: dart # This should be either "dart" or "flutter".
+steps:
+  - name: Step 1
+    directory: step1
+    has_solution: false
